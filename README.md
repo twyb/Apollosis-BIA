@@ -3,13 +3,14 @@
 Exploring music and lyrics of top 50 pop songs.
 
 ## Music
-- Using attributes from Spotify's API
-
+#### Using attributes from Spotify's API
+- comparisons of various artists
+- possible comparisions of our individual preference types
 
 ## Lyrics
-- Using adjacency matrix to visualize lyrics relations in these dimensions
--- soundex (similarity in sound)
--- meaning (word2vec)
--- sentiment
+#### Using adjacency matrix to visualize lyrics relations in these dimensions
+- soundex (similarity in sound)
+- meaning (word2vec)
+- sentiment
 
 
