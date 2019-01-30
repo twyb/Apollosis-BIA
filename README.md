@@ -1,6 +1,6 @@
 # Team Apollosis-BIA (Data Associate Project 2019)
 
-Exploring music and lyrics of top 50 pop songs.
+Hi we're Team Apollosis. Our project is aimed at exploring the music and lyrics of top artists from Spotify. 
 
 ## Music
 #### Using attributes from Spotify's API
@@ -12,5 +12,4 @@ Exploring music and lyrics of top 50 pop songs.
 - soundex (similarity in sound)
 - meaning (word2vec)
 - sentiment
-
 
